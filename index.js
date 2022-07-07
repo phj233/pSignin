@@ -10,7 +10,7 @@ function yiyan(){
     return yiyanData;
 }
 function retrunImg(){
-    let imgecy=segment.image(`https://tenapi.cn/acg`);
+    let imgecy=segment.image(`https://www.dmoe.cc/random.php`);
     return imgecy;
 }
 class pSignin extends NIL.ModuleBase{
